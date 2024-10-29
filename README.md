@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vincent-207
 - 👀 I’m interested in Math, programming, and game development
-- 🌱 I’m currently learning the CS50x course, how to custom build a macropad.
+- 🌱 I’m currently working on ant simulation in unity based on the Ant Colony Optimization algorithm.
 - 📫 You can reach me at vhannah2007@outlook.com
 - 😄 Pronouns: he/him
 - Passions: math, programming, video games, game development
